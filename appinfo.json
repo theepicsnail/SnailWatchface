@@ -1,0 +1,18 @@
+{
+  "uuid": "8900fd2b-c5fe-4ce6-9ea9-5b5513a1a259",
+  "shortName": "SnailWatchface",
+  "longName": "SnailWatchface",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
